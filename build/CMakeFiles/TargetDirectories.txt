@@ -1,0 +1,3 @@
+D:/ComputerGragh/Diff_Z_buffer/build/CMakeFiles/CGAssignment3.dir
+D:/ComputerGragh/Diff_Z_buffer/build/CMakeFiles/ALL_BUILD.dir
+D:/ComputerGragh/Diff_Z_buffer/build/CMakeFiles/ZERO_CHECK.dir

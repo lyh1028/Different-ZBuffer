@@ -1,0 +1,10 @@
+^D:\COMPUTERGRAGH\DIFF_Z_BUFFER\BUILD\CMAKEFILES\D395B3B3A9D632309C5A9307EBAF953C\GENERATE.STAMP.RULE
+setlocal
+D:\Cmake\bin\cmake.exe -SD:/ComputerGragh/Diff_Z_buffer -BD:/ComputerGragh/Diff_Z_buffer/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/ComputerGragh/Diff_Z_buffer/build/CGAssignment3.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
